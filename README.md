@@ -24,7 +24,7 @@ The course-provided data is used-vehicle dataset. It initially contains:
 
 The raw data contains missing values, high-cardinality categories, placeholder prices, extreme price and odometer values, and fields that are unsuitable for modeling.
 
-The vehicles.csv dataset is not included in this repository because it exceeds GitHub’s file-size limit. The dataset file is not included in this repository. Place `vehicles.csv` in a local `data/` directory before running the notebook.
+The vehicles.csv dataset is not included in this repository because it exceeds GitHub’s file-size limit. Please place `vehicles.csv` in a local `data/` directory before running the notebook.
 
 ## Analysis workflow
 

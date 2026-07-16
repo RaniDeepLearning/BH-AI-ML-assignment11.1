@@ -78,7 +78,7 @@ RMSE is the primary evaluation metric because it reports error in dollars and gi
 | Lasso Regression | $9,014.15 |
 | Polynomial Ridge Regression | **$8,044.34** |
 
-The best Polynomial Ridge model uses polynomial degree 3 and Ridge `alpha=3`.
+The best Polynomial Ridge model uses polynomial degree 3 and Ridge `alpha=1`.
 
 Final held-out test performance:
 
